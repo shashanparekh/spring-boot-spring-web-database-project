@@ -1,0 +1,1 @@
+Spring Boot application(part-3)->spring core annotation,Spring mvc sessions and model and view,spring boot repository,JPA(SQL based inbuilt H2 database for spring boot)for crud operation and many more complex query,Server operation(GET,PUT,POST,DELETE,etc)used for java Web database application using java spring boot  framework

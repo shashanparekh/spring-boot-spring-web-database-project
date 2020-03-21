@@ -1,0 +1,5 @@
+insert into alien values(1,'java','SpringCore')
+insert into alien values(2,'python','Django')
+insert into alien values(3,'Jquery','Tenser.js')
+insert into alien values(4,'JavaScript','Node.js')
+insert into alien values(5,'java','SpringMVC')
